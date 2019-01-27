@@ -51,10 +51,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TaskManager.DataLib\TaskManager.DataLib.csproj">
-      <Project>{e511c148-c406-40ca-8319-3cfdf0e37d3f}</Project>
-      <Name>TaskManager.DataLib</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TaskManager.Entities\TaskManager.Entities.csproj">
       <Project>{226914c9-f681-417b-86ab-171824e2f8f7}</Project>
       <Name>TaskManager.Entities</Name>
